@@ -7,3 +7,5 @@ The assignment consists of two parts --  the first part of the assignment consis
 4. The transformation required to smooth out seasonal variation
 
 The second part of the assignment requires us to perform analysis on Apple stock prices over the period of February 1, 2002 to January 31, 2017. Our objective was to fit the best model for forecasting.
+
+We included the dataset for the second part here as _AAPL.csv_
